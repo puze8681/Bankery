@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bankery</string>
+    <string name="title_activity_infor">InforActivity</string>
+    <string name="title_activity_inform">InformActivity</string>
+</resources>
